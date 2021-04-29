@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+v#!/usr/bin/env bash
 
 dir="$HOME/.config/polybar"
 themes=(`ls --hide="launch.sh" $dir`)
