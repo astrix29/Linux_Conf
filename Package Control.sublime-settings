@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"All Autocomplete",
+		"Anaconda",
+		"auto-save",
+		"AutoPEP8",
+		"ayu",
+		"Babel",
+		"Babel Snippets",
+		"EasyClangComplete",
+		"EJS 2",
+		"Emmet",
+		"Firebase Snippets",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"JavaScript Completions",
+		"JsPrettier",
+		"LiveReload",
+		"Markmon real-time markdown preview",
+		"Materialize",
+		"Node Completions",
+		"Package Control",
+		"Requester",
+		"Sass",
+		"SCSS Snippets",
+		"Sublime ES7 React Redux ReactNative JS snippets",
+		"SublimeLinter-jshint",
+		"Syntax Highlighting for Sass",
+		"Tabnine",
+		"Terminus",
+		"Theme - Brogrammer",
+		"Vintageous"
+	]
+}
