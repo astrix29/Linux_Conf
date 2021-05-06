@@ -4,5 +4,5 @@
 * [Nerdfonts for Ramp fonts](https://www.nerdfonts.com)
 
 # Screenshots
-![image](https://user-images.githubusercontent.com/46086050/117277550-9d694900-ae7d-11eb-8218-0df1bd2ee6b7.png)
+![image](https://user-images.githubusercontent.com/46086050/117305243-327b3a80-ae9c-11eb-80cf-d7d5549d7780.png)
 (Polybar-Theme in screenshot: Shapes)
