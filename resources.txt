@@ -1,2 +1,0 @@
-General Polybar Config: https://gitlab.com/dwt1/dotfiles/-/blob/master/.config/polybar/config
-Icons: https://www.nerdfonts.com
