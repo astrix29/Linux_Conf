@@ -17,7 +17,7 @@
 	],
 	"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
 	"font-face": "Monaco",
-	"font_size": 13,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
