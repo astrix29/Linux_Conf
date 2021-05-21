@@ -14,12 +14,15 @@
 		"Babel",
 		"Babel Snippets",
 		"Color Highlight",
+		"DotENV",
 		"EasyClangComplete",
 		"EJS 2",
 		"Emmet",
 		"Firebase Snippets",
+		"Format JSDoc @params",
 		"Git",
 		"Git blame",
+		"Git Conflict Resolver",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
@@ -31,6 +34,7 @@
 		"Node Completions",
 		"Oceanic Color Scheme",
 		"Package Control",
+		"PlainTasks",
 		"Requester",
 		"Sass",
 		"SCSS Snippets",
@@ -42,6 +46,7 @@
 		"Tabnine",
 		"Terminus",
 		"Theme - Brogrammer",
-		"Vintageous"
-	]
+		"Todo",
+		"Vintageous",
+	],
 }
