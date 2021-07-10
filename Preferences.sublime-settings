@@ -15,9 +15,15 @@
 			"selector": "text",
 		}
 	],
-	"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
-	"font-face": "Monaco",
+	"color_scheme": "Packages/Halcyon Theme/halcyon.tmTheme",
 	"font_size": 11,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"font_face": "Fira Code",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
 	"ignored_packages":
 	[
 		"Vintage",
@@ -26,5 +32,8 @@
 	"line_padding_top": 4,
 	"original_color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
 	"sublime_merge_path": "/home/arsenic/Downloads/Zips/sublime_merge/sublime_merge",
-	"theme": "Material Flatland.sublime-theme",
+	"theme": "halcyon.sublime-theme",
+	"dark_theme": "Adaptive.sublime-theme",
+	"light_theme": "Default Dark.sublime-theme",
+	"sidebar_font_small": true,
 }

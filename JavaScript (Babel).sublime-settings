@@ -4,5 +4,6 @@
 		"jsx",
 		"js"
 	],
-	"font_face": "Monaco"
+	"font_face": "Fira Code",
+	"translate_tabs_to_spaces": true
 }
